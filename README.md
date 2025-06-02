@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-ashraf-3ab0a2260/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziaddash33@gmail.com)
 
-<img src="https://github.com/yourusername/yourrepo/blob/main/assets/ziad-coding.png" width="200" align="right" />
+<img src="https://github.com/Zeyad-Ashraf/Zeyad-Ashraf/blob/main/assets/computer-tech.jpg" width="200" align="right" />
 
 
 I'm a backend developer who is passionate about building robust systems and scalable APIs to power modern applications.  
